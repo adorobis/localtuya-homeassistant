@@ -61,6 +61,8 @@
                     "state_on": "On Value",
                     "state_off": "Off Value",
                     "brightness": "Brightness",
+                    "brightness_lower": "Brightness Lower Value",
+                    "brightness_upper": "Brightness Upper Value",
                     "color_temp": "Color Temperature"
                 }
             },
@@ -108,6 +110,8 @@
                     "state_on": "On Value",
                     "state_off": "Off Value",
                     "brightness": "Brightness",
+                    "brightness_lower": "Brightness Lower Value",
+                    "brightness_upper": "Brightness Upper Value",
                     "color_temp": "Color Temperature"
                 }
             },
